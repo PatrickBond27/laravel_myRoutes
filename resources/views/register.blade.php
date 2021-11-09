@@ -21,8 +21,7 @@
         </style>
     </head>
     <body>
-        <a href="/login">Login</a>
-        <a href="/register">Register</a>
-        <a href="/about">About</a>
+            register
+        <a href="/">Profile</a>
     </body>
 </html>
